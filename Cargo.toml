@@ -1,7 +1,7 @@
 [package]
 name = "mixin-sdk"
 description = "mixin.one network sdk"
-homepage = ""
+homepage = "https://github.com/liuzemei/mixin-rust-sdk/blob/main/README.md"
 repository = "https://github.com/liuzemei/mixin-rust-sdk.git"
 version = "0.0.1"
 edition = "2018"
