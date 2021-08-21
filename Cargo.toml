@@ -1,0 +1,13 @@
+[package]
+name = "mixin-sdk"
+description = "mixin.one network sdk"
+homepage = ""
+repository = "https://github.com/liuzemei/mixin-rust-sdk.git"
+version = "0.0.1"
+edition = "2018"
+license-file = "LICENSE"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
